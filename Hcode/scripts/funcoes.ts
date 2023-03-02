@@ -1,6 +1,4 @@
-function mostrarMensagem(texto: string): boolean{
-    console.log(texto);
-   return true
-}
+import { mostrarMensagem } from "./exexportfunc";
+
 
 console.log(mostrarMensagem('hcode'))

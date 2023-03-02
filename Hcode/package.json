@@ -10,5 +10,9 @@
   "license": "ISC",
   "devDependencies": {
     "tsc-watch": "^6.0.0"
+  },
+  "dependencies": {
+    "@types/reflect-metadata": "^0.1.0",
+    "reflect-metadata": "^0.1.13"
   }
 }

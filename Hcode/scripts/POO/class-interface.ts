@@ -1,4 +1,4 @@
-interface IEmailv2 {
+/* interface IEmailv2 {
     nome: string;
     email: string;
 }
@@ -73,3 +73,4 @@ new Telefone({
     email: "vitormota05@gmail.com",
     telefone: "11997159497"
 }).enviar()
+ */
